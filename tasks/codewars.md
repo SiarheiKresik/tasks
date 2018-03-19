@@ -7,7 +7,7 @@ Codewars:
  - [x]      1. http://www.codewars.com/kata/opposite-number
  - [x]      2. http://www.codewars.com/kata/basic-mathematical-operations
  - [x]      3. http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
- - [ ]      4. http://www.codewars.com/kata/transportation-on-vacation
+ - [x]      4. http://www.codewars.com/kata/transportation-on-vacation
  - [ ]      5. http://www.codewars.com/kata/get-the-middle-character
  - [ ]      6. http://www.codewars.com/kata/partition-on
  - [ ]      7. http://www.codewars.com/kata/word-count
