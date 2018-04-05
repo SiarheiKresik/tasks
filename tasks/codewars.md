@@ -29,7 +29,7 @@ Codewars:
  - [ ]      23. http://www.codewars.com/kata/i-spy
  - [ ]      24. http://www.codewars.com/kata/calculating-with-functions
  - [ ]      25. http://www.codewars.com/kata/santaclausable-interface
- - [ ]      26. http://www.codewars.com/kata/new-with-apply
+ - [x]      26. http://www.codewars.com/kata/new-with-apply
  - [ ]      27. http://www.codewars.com/kata/extract-nested-object-reference
  - [x]      28. http://www.codewars.com/kata/array-helpers
  - [ ]      29. http://www.codewars.com/kata/replicate-new
