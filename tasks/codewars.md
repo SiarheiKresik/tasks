@@ -30,7 +30,7 @@ Codewars:
  - [ ]      24. http://www.codewars.com/kata/calculating-with-functions
  - [ ]      25. http://www.codewars.com/kata/santaclausable-interface
  - [x]      26. http://www.codewars.com/kata/new-with-apply
- - [ ]      27. http://www.codewars.com/kata/extract-nested-object-reference
+ - [x]      27. http://www.codewars.com/kata/extract-nested-object-reference
  - [x]      28. http://www.codewars.com/kata/array-helpers
  - [ ]      29. http://www.codewars.com/kata/replicate-new
  - [x]      30. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
