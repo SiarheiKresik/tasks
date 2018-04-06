@@ -21,7 +21,7 @@ Codewars:
  - [x]      15. http://www.codewars.com/kata/a-function-within-a-function
  - [x]      16. http://www.codewars.com/kata/can-you-keep-a-secret
  - [ ]      17. http://www.codewars.com/kata/using-closures-to-share-class-state
- - [ ]      18. http://www.codewars.com/kata/a-chain-adding-function
+ - [x]      18. http://www.codewars.com/kata/a-chain-adding-function
  - [ ]      19. http://www.codewars.com/kata/function-cache
  - [x]      20. http://www.codewars.com/kata/function-composition
  - [x]      21. http://www.codewars.com/kata/function-composition-1
