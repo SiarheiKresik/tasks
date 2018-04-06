@@ -9,7 +9,7 @@ Codewars:
  - [x]      3. http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
  - [x]      4. http://www.codewars.com/kata/transportation-on-vacation
  - [x]      5. http://www.codewars.com/kata/get-the-middle-character
- - [ ]      6. http://www.codewars.com/kata/partition-on
+ - [x]      6. http://www.codewars.com/kata/partition-on
  - [ ]      7. http://www.codewars.com/kata/word-count
  - [x]      8. http://www.codewars.com/kata/remove-first-and-last-character-part-two
  - [ ]      9. http://www.codewars.com/kata/implement-a-filter-function
