@@ -32,7 +32,7 @@ Codewars:
  - [x]      26. http://www.codewars.com/kata/new-with-apply
  - [x]      27. http://www.codewars.com/kata/extract-nested-object-reference
  - [x]      28. http://www.codewars.com/kata/array-helpers
- - [ ]      29. http://www.codewars.com/kata/replicate-new
+ - [x]      29. http://www.codewars.com/kata/replicate-new
  - [x]      30. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
  - [x]      31. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
  - [x]    32. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
