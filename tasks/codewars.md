@@ -12,7 +12,7 @@ Codewars:
  - [x]      6. http://www.codewars.com/kata/partition-on
  - [ ]      7. http://www.codewars.com/kata/word-count
  - [x]      8. http://www.codewars.com/kata/remove-first-and-last-character-part-two
- - [ ]      9. http://www.codewars.com/kata/implement-a-filter-function
+ - [x]      9. http://www.codewars.com/kata/implement-a-filter-function
  - [x]      10. http://www.codewars.com/kata/prefill-an-array
  - [x]      11. http://www.codewars.com/kata/cross-product-of-vectors
  - [x]      12. http://www.codewars.com/kata/sequence-generator-1
