@@ -3,7 +3,7 @@
 ### Task:
  ~~The task is to create a web app to view information about youtube clips by user request.~~
  
-YouTube REST API should be accessed via cross-domain XHR requests.
+~~YouTube REST API should be accessed via cross-domain XHR requests.~~
 
 ### Use case:
  1. ~~Search box is viewed by the user when he starts the app.~~
